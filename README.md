@@ -6,7 +6,7 @@
 
 The Sales Data Dashboard goes beyond just numbers, offering insights into sales trends over time and the connection between sales and profits. It provides a clearer perspective, making decision-making more informed and strategic.
 
-Key features include:
+## Key features include:
 
 -Top & Bottom 5 Products: Identifies the best and worst-performing products, allowing the company to optimize inventory, pricing, and marketing strategies.
 
