@@ -33,3 +33,5 @@ These insights allow businesses to optimize pricing, target profitable markets, 
 - Step 9 : Second Approach - Using Edit Interactions to compare Profit/Sales/Quantity sold between any 2 periods selected by the user.
 - Step 10- Creating a table visual to show all the remaining fields for each order that could be filtered using visual filters along with a new measure to make the slicers interact among themselves.
 - Step 11- Publishing the report to Power BI Service.
+
+  ![Image](https://github.com/user-attachments/assets/57c66e63-88f7-43ba-b951-2d4fd62938ad)
