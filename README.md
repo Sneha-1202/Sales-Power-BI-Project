@@ -35,3 +35,9 @@ These insights allow businesses to optimize pricing, target profitable markets, 
 - Step 11- Publishing the report to Power BI Service.
 
   ![Image](https://github.com/user-attachments/assets/57c66e63-88f7-43ba-b951-2d4fd62938ad)
+
+  ![Image](https://github.com/user-attachments/assets/cf02ec00-a71b-43a5-8693-207b7bb2e468)
+
+  ![Image](https://github.com/user-attachments/assets/5b75ee8f-e779-4d9e-a754-67a6ca6dda4d)
+
+  
