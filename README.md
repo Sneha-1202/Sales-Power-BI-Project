@@ -40,4 +40,6 @@ These insights allow businesses to optimize pricing, target profitable markets, 
 
   ![Image](https://github.com/user-attachments/assets/5b75ee8f-e779-4d9e-a754-67a6ca6dda4d)
 
+  ![Image](https://github.com/user-attachments/assets/9495ba0a-b456-4ccc-a53e-a75da84bd8a0)
+
   
