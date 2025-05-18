@@ -1,6 +1,5 @@
 # Sales Data Analysis
 
-### Dashboard Link : https://app.powerbi.com/groups/229e03c2-61c1-4b59-97ba-86094d151d10/reports/e6502274-1001-43ac-aa62-b09135e09b06/fbc33a480db2b8360074?experience=power-bi
 
 ## Project Statement:
 
